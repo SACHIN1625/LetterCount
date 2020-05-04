@@ -6,11 +6,11 @@
 ## How to install
 
 ```
-pip install vcons
+pip install LetterCount
 ```
 ## If you are trouble installing, try this
 ```
-pip3 install vcons
+pip3 install LetterCount
 ```
 ## How to use
 
@@ -19,9 +19,8 @@ Below example will help you
 ```
 from LetterCount install LetterCount
 sample_string= "python"
-LetterCount(sample_string,letter)	# returns the number of vowels in the given string
+LetterCount(sample_string,letter)	# returns the number of times letter occured in string
 
 
 ```
 
-If anyone found any issue , feel free to make PR :)
